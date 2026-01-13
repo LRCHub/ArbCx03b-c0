@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "dual existence",
+  "base_artist": "fripSide",
+  "createdAt": "2026-01-13T15:47:49.055321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "dual existence",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/01_dual_existence_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "dual existence",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/02_dual_existence_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dual Existence",
+      "artist": "Enshine",
+      "has_synced": true,
+      "path": "select/03_Dual_Existence_Enshine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "dual existence",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/04_dual_existence_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "dual existence",
+      "artist": "fripside",
+      "has_synced": true,
+      "path": "select/05_dual_existence_fripside.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "dual existence",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/06_dual_existence_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "dual existence - TVsize",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/07_dual_existence_-_TVsize_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dual Existence",
+      "artist": "FripSide",
+      "has_synced": true,
+      "path": "select/08_Dual_Existence_FripSide.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "dual existence (version2023)",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/09_dual_existence_(version2023)_fripSide.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "dual existence -version2023-",
+      "artist": "fripSide",
+      "has_synced": true,
+      "path": "select/10_dual_existence_-version2023-_fripSide.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dual existence",
+      "artist": "fripSide",
+      "has_synced": false,
+      "path": "select/pl_01_dual_existence_fripSide.txt"
+    }
+  ]
+}
